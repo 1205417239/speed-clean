@@ -1,0 +1,9 @@
+Package: com.unity.audioplugin
+Name: UnityAudioPlugin
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Description: Unity Audio Plugin Support
+Maintainer: Unity Technologies
+Author: Unity Technologies
+Section: System
+Depends: firmware (>=14.0)
